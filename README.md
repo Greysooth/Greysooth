@@ -33,7 +33,8 @@
 - 💼 GitHub: https://github.com/greysooth
 
 - ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Greysooth&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight)
+
 
 
 
