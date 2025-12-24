@@ -33,7 +33,7 @@
 - 💼 GitHub: https://github.com/greysooth
 
 - ## 📊 GitHub Stats
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Greysooth&theme=tokyonight)
 
 
 
