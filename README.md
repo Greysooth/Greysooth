@@ -30,7 +30,8 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 GitHub: https://github.com/greysooth
+- GitHub: https://github.com/greysooth
+- LinkedIn: https://www.linkedin.com/in/mukund-kushwaha-680a44337/
 
 - ## 📊 GitHub Stats
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Greysooth&theme=tokyonight)
